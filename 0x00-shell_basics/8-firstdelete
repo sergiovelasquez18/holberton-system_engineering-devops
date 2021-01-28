@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tpm/holberton/betty
+rm betty /tpm/holberton/betty
