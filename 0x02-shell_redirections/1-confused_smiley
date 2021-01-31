@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -ne "(Ôo)'"
+cat -en "(Ôo)'"
