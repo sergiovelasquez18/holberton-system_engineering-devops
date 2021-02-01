@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 iacta | cola -n 1 
+cat iacta | awk 'NR==3'
