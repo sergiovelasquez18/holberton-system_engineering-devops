@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -R iacta | tail -n 1 | head -n 1
+cp iacta | tail -n 1 | head -n 1
