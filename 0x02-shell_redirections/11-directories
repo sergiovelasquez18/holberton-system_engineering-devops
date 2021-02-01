@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name ".*" | wc -l
+ls find . -name ".*" | wc -l
