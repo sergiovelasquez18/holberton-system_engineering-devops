@@ -1,2 +1,2 @@
 #!/bin/bash
-DECIMAL=$((16#$HEX))
+echo $((16#$HEX))
