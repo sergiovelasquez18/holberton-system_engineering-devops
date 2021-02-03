@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%d\n" 16xFF
+printf "%d\n" 10x16
