@@ -56,6 +56,3 @@ The second line of all your Bash scripts should be a comment explaining what is 
 
 ### [10. FizzBuzz](./10-fizzbuzz)
 * Write a class Student that defines a student by
-
-### [10. Student to JSON with filter](./10-student.py)
-* Write a Bash script that displays numbers from 1 to 100.
