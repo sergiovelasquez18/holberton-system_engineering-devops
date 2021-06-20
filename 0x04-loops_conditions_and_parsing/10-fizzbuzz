@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# This script is displaying numbers from 1 to 100
+c=1
+while [ $c -le 100 ]
+do
+	if [ $((c%3)) -eq 0 ] && [ $((c%5)) -eq 0 ]
+	then
+		echo "FizzBuzz"
+	elif [ $((c%3)) -eq 0 ]
+	then
+		echo "Fizz"
+	elif [ $((c%5)) -eq 0 ]
+	then
+		echo "Buzz"
+	else
+		echo $c
+	fi
+	c=$((c = c + 1))
+done
