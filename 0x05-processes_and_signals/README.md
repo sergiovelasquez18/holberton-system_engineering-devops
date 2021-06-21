@@ -47,10 +47,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### [7. Highlander](./7-highlander)
 * Write a Bash script that displays:
-
+```
 - To infinity and beyond indefinitely
 - With a sleep 2 in between each iteration
 - I am invincible!!! when receiving a SIGTERM signal
+```
 
 ### [8. Beheaded process](./8-beheaded_process)
 * Write a Bash script that kills the process 7-highlander.
