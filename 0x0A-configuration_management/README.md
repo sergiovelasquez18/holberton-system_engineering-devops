@@ -11,7 +11,7 @@
 * Your Puppet manifests files must end with the extension .pp
 
 ## Install puppet-lint
-´´´
+```
 $ apt-get install -y ruby
 $ gem install puppet-lint -v 2.1.1
-´´´
+```
