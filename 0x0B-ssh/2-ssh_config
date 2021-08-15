@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Client configuration file for connecting to a server without typing a password
+Host 34.139.131.104
+IdentityFile ~/.ssh/holberton
+PasswordAuthentication no
