@@ -20,4 +20,4 @@ if __name__ == '__main__':
         for t in todo:
             taskwriter.writerow([int(uid), id_user.get('username'),
                                  t.get('completed'),
-                                 t.get('title')])
+                                 t.get('title')]
