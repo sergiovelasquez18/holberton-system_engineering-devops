@@ -23,4 +23,4 @@ if __name__ == '__main__':
                                                t.get("userId"))})
      for t in todo]
     with open("todo_all_employees.json", 'w') as jsf:
-        json.dump(udoc, jsf
+        json.dump(udoc, jsf)
