@@ -8,11 +8,6 @@ import requests
 from sys import argv
 
 
-import csv
-import requests
-from sys import argv
-
-
 if __name__ == '__main__':
     uid = argv[1]
     id_url = "https://jsonplaceholder.typicode.com/users/{}".format(uid)
