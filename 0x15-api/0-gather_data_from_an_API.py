@@ -28,4 +28,4 @@ if __name__ == "__main__":
           format(EMPLOYEE_NAME, NUMBER_OF_DONE_TASKS,
                  TOTAL_NUMBER_OF_TASKS))
     for t in TASK_TITLE:
-        print("\t {}".format(t))
+        print("\t {}".format(t)
